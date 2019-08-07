@@ -15,5 +15,3 @@ function holidayCountdown(holiday,days){
 }
 
 
-
-    
